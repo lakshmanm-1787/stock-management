@@ -1,3 +1,4 @@
+
 # stock-management
 ✅ Project Title
 
@@ -61,3 +62,4 @@ Repeats operations until the user exits the system.
 Uses basic C concepts.
 
 WORKS FAST AND STORES ITEMS IN MEMORY.
+<img width="527" height="516" alt="Screenshot 2025-11-27 131040" src="https://github.com/user-attachments/assets/03a59410-5229-431f-aaf5-8ce7278ca36f" />
